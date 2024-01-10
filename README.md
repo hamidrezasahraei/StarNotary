@@ -3,6 +3,9 @@
 ## Introduction
 StarNotary is a decentralized application (Dapp) designed for registering and transferring the ownership of stars on the Ethereum blockchain. This project uses Hardhat for smart contract development and React for the front-end interface, all within a single repository.
 
+## Name And Symbol
+Star Notary Token - SNT
+
 ## Prerequisites
 Before starting, ensure you have the following installed:
 - Node.js (v12 or later)
