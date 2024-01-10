@@ -6,6 +6,9 @@ StarNotary is a decentralized application (Dapp) designed for registering and tr
 ## Name And Symbol
 Star Notary Token - SNT
 
+## Contract Address on Goreli
+0xC9EF2A88E1c4393E787eEfEd131C44495E78fd9a
+
 ## Prerequisites
 Before starting, ensure you have the following installed:
 - Node.js (v12 or later)
